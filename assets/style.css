@@ -67,7 +67,7 @@ body {
     transform: rotateY(180deg);
 }*/
 
-.cartao.hover .cartao__conteudo {
+.cartao:hover .cartao__conteudo {
     transform: rotateY(180deg);
 }
 
