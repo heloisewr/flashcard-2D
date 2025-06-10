@@ -63,7 +63,11 @@ body {
     font-weight: 700;
 }
 
-.cartao.active .cartao__conteudo {
+/*.cartao.active .cartao__conteudo {
+    transform: rotateY(180deg);
+}*/
+
+.cartao.hover .cartao__conteudo {
     transform: rotateY(180deg);
 }
 
