@@ -63,11 +63,7 @@ body {
     font-weight: 700;
 }
 
-.cartao:active .cartao__conteudo {
-    transform: rotateY(180deg);
-}*/
-
-.cartao:hover .cartao__conteudo {
+.cartao.active .cartao__conteudo {
     transform: rotateY(180deg);
 }
 
@@ -89,7 +85,7 @@ body {
 footer {
     background-color: black;
     color: white;
-    position: fixed;heloise.antunes.santos@escola.pr.gov.br
+    position: fixed;
     bottom: 0;
     width: 100%;
     height: 2rem;

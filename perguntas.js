@@ -11,8 +11,8 @@ criaCartao(
 )
 
 criaCartao(
-    'Matematica'
-    'Qual é o numero de Pi?'
+    'Matematica',
+    'Qual é o numero de Pi?',
     '3,14'
 )
  criaCartao(
