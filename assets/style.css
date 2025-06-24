@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
 :root {
-    --text-color: #DBE4EF;
-    --card-front-color: #144480;
-    --card-back-color: #00F4BF;
+    --text-color: #b3cdec;
+    --card-front-color: #2a6675;
+    --card-back-color: #baceec;
 }
 
 body {

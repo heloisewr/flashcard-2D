@@ -16,5 +16,17 @@ criaCartao(
     '3,14'
 )
  criaCartao(
-    'Geografia'
+    'Geografia',
+    'Qual é o maior oceano do mundo?',
+    'Oceano Pacífico'
+ )
+ criaCartao(
+    'História',
+    'Quem descobriu o Brasil?',
+    'Pedro Álvares Cabral'
+ )
+ criaCartao(
+    'Química',
+    'Qual é o símbolo químico da água?',
+    'H₂O'
  )
